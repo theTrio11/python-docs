@@ -1,0 +1,10 @@
+#second progam
+print("Enter the name of the students")
+a=str(input())
+b=str(input())
+c=str(input())
+print("Enter the marks of the three students")
+x=int(input())
+y=int(input())
+z=int(input())
+print("The sum is=",x+y+z)
